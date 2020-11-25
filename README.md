@@ -1,9 +1,10 @@
 # ITPDemo
 Donignator Demo
 
-# Heading
+# Demo of a WPF dog brwoder with cute pictures of dogs
 
-* bullets
-* make a list
+* Milo
+* Fido 
+* Rover
 
-Write other things
+Download and run to see all about the dogs
